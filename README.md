@@ -1,17 +1,13 @@
 ### Hello, I'm Rob!
 
-- I'm a PhD Student and Vanier Scholar working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at U Toronto
-- I'm interested in how aquatic biodiversity is driven by changing environments 
+- I'm a PhD Student and Vanier Scholar working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at U Toronto 
+- I'm interested in how aquatic biodiversity is influenced by changing environments 
 - I'm currently working on:
     - environmental RNA and DNA biomonitoring
-    - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/)
+    - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
     - nonlinear population dynamics
  
-- You can find me:
-    - [Website](https://www.roberthechler.ca/)
-    - [Twitter](https://twitter.com/robert_hechler)
-    - [Google scholar](https://scholar.google.com/citations?user=cCHc_DgAAAAJ&hl=en)
-    - robert.hechler@mail.utoronto.ca 
+- My email: robert.hechler@mail.utoronto.ca 
   
 
 <!--
