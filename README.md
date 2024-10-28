@@ -7,10 +7,11 @@
     - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/)
     - nonlinear population dynamics
  
-- You can find me on:
+- You can find me:
     - [Website](https://www.roberthechler.ca/)
     - [Twitter](https://twitter.com/robert_hechler)
     - [Google scholar](https://scholar.google.com/citations?user=cCHc_DgAAAAJ&hl=en)
+    - robert.hechler@mail.utoronto.ca 
   
 
 <!--
