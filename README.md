@@ -3,7 +3,7 @@
 - I'm a PhD Student and Vanier Scholar working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at U Toronto 
 - I'm broadly interested in how aquatic biodiversity is influenced by changing environments and human disturbances
 - My ongoing projects include:
-    - environmental RNA and DNA biomonitoring
+    - biodiversity monitoring via environmental RNA and DNA 
     - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
     - nonlinear population dynamics
  
