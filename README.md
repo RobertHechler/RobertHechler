@@ -7,7 +7,11 @@
     - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
     - nonlinear population dynamics
  
-- My email: robert.hechler@mail.utoronto.ca 
+- My email: robert.hechler@mail.utoronto.ca
+- 
+[![Email](https://img.shields.io/badge/Email%20-robert.hechler@mail.utoronto.ca-red?style=for-the-badge&logoColor=red)](mailto:robert.hechler@mail.utoronto.ca)
+
+
   
 
 <!--
