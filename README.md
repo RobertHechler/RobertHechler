@@ -8,9 +8,9 @@
     - nonlinear population dynamics to understand why populations fluctuate as they do
 
 Get in touch!
-- [website](www.roberthechler.ca) 
-- [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca) 
-- [@robert_hechler](https://x.com/robert_hechler)
+- Email: [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca)
+- Website: [www.roberthechler.ca](www.roberthechler.ca) 
+- Twitter: [@robert_hechler](https://x.com/robert_hechler)
 
 
 
