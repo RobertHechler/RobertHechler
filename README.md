@@ -1,8 +1,7 @@
-### Hi, I'm Rob 👋
+### Hi, I'm Rob, a PhD Candidate and Vanier Scholar at U Toronto :canada:
 
-- I'm a PhD Candidate and Vanier Scholar working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at U Toronto :canada:
 - I'm broadly interested in how aquatic biodiversity responds to changing environments and human disturbances :fish: 
-- My ongoing research projects include:
+- For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) and my research projects include:
     - biodiversity responses to environmental change via environmental RNA and DNA 
     - wild Pacific salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
     - nonlinear population dynamics (i.e. why do populations fluctuate as they do)
