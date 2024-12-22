@@ -4,12 +4,12 @@
 - I'm broadly interested in how aquatic biodiversity responds to changing environments and human disturbances :fish: 
 - My ongoing research projects include:
     - biodiversity responses to environmental change via environmental RNA and DNA 
-    - salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
-    - nonlinear population dynamics
+    - wild Pacific salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
+    - nonlinear population dynamics (i.e. why do populations fluctuate as they do)
 
 Get in touch!
 - [website](www.roberthechler.ca) 
-- [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca)
+- [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca) 
 - [@robert_hechler](https://x.com/robert_hechler)
 
 
