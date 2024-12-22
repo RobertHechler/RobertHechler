@@ -4,7 +4,7 @@
 - For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the Department of Ecology and Evolutionary Biology, University of Toronto
 - My research projects include:
     - biodiversity responses to heat stress via environmental RNA and DNA 
-    - wild Pacific salmon conservation in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) :fish: 
+    - wild salmon conservation in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) :fish: 
     - nonlinear population dynamics to understand why populations fluctuate as they do
 
 Get in touch!
