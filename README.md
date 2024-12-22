@@ -1,10 +1,11 @@
-### Hi, I'm Rob, a PhD Candidate and Vanier Scholar at U Toronto :canada:
+### Hi, I'm Rob, a PhD candidate and Vanier Scholar at U Toronto :canada:
 
-- I'm broadly interested in how aquatic biodiversity responds to changing environments and human disturbances :fish: 
-- For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) and my research projects include:
-    - biodiversity responses to environmental change via environmental RNA and DNA 
-    - wild Pacific salmon conservation with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) 
-    - nonlinear population dynamics (i.e. why do populations fluctuate as they do)
+- I'm broadly interested in aquatic, molecular, and quantitative ecology. I am particularaly interested in understanding how aquatic biodiversity—at both local and global scales—responds to environmental changes and human disturbances :fish: 
+- For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the Department of Ecology and Evolutionary Biology, University of Toronto
+- My research projects include:
+    - biodiversity responses to heat stress via environmental RNA and DNA 
+    - wild Pacific salmon conservation in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) :fish: 
+    - nonlinear population dynamics to understand why populations fluctuate as they do
 
 Get in touch!
 - [website](www.roberthechler.ca) 
