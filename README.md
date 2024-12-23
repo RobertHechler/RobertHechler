@@ -1,6 +1,6 @@
 ### Hi, I'm Rob, a PhD candidate and Vanier Scholar at U Toronto :canada:
 
-- I'm broadly interested in aquatic, molecular, and quantitative ecology. I am particularaly interested in understanding how aquatic biodiversity—at both local and global scales—responds to environmental change and human disturbances 
+- I'm broadly interested in aquatic, molecular, and quantitative ecology, with a particular focus on understanding how aquatic biodiversity—at both local and global scales—responds to environmental change and human disturbances
 - For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the Department of Ecology and Evolutionary Biology, University of Toronto
 - My research projects include:
     - biodiversity responses to heat stress via environmental RNA and DNA 
