@@ -9,7 +9,7 @@
 
 Get in touch!
 - Email: [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca)
-- Website: [www.roberthechler.ca](www.roberthechler.ca) 
+- Website: [www.roberthechler.ca](https://www.roberthechler.ca) 
 - Twitter: [@robert_hechler](https://x.com/robert_hechler)
 
 
