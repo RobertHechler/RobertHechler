@@ -1,6 +1,6 @@
 ### Hi, I'm Rob, a PhD candidate and Vanier Scholar at U Toronto :canada:
 
-- I'm interested in understanding how aquatic biodiversity responds to environmental change and do this using molecular and quantitative methods. I work both at global and local scales with rights and stakeholders, aiming to produce work that informs policy and conservation practices.
+- I'm interested in understanding how aquatic biodiversity responds to environmental change and do this using molecular and quantitative methods. I enjoy working both at global and local scales with rights and stakeholders in order to produce work that informs policy and conservation practices.
 - For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the University of Toronto, Department of Ecology and Evolutionary Biology.
 - My research projects include:
     - wild salmon conservation in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) :fish: 
