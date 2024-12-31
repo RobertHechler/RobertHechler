@@ -3,8 +3,9 @@
 - I'm interested in understanding how aquatic biodiversity responds to environmental change and do this using molecular and quantitative methods. I work both at global and local scales with rights and stakeholders, aiming to produce work that informs policy and conservation practices.
 - For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the University of Toronto, Department of Ecology and Evolutionary Biology.
 - My research projects include:
-    - biodiversity responses to heat stress via environmental RNA and DNA 
     - wild salmon conservation in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/) :fish: 
+    - species responses to heat stress 
+    - developing new environmental RNA and DNA tools for biomonitoring  
     - nonlinear population dynamics to understand why populations fluctuate as they do
 
 Get in touch!
