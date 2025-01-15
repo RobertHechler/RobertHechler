@@ -12,7 +12,7 @@ Get in touch!
 - Email: [robert.hechler@mail.utoronto.ca](mailto:robert.hechler@mail.utoronto.ca)
 - Website: [www.roberthechler.ca](https://www.roberthechler.ca) 
 - Twitter: [@robert_hechler](https://x.com/robert_hechler)
-- Bluesky: [@roberthechler.bsky.social](roberthechler.bsky.social)
+- Bluesky: [@roberthechler.bsky.social](https://bsky.app/profile/roberthechler.bsky.social)
 
 
 
