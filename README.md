@@ -1,7 +1,6 @@
 ### Hi, I'm Rob, a PhD candidate and Vanier Scholar at U Toronto :canada:
 
-- I'm a computational ecologist interested in understanding the processes that shape biodiversity dynamics in an era of global climate change. I enjoy working both at global and local scales, with rights and stakeholders, in order to produce work that informs conservation.
-- For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) in the Department of Ecology and Evolutionary Biology, University of Toronto.
+- I'm a computational ecologist interested in understanding the processes that shape biodiversity dynamics in an era of global climate change. I enjoy working both at global and local scales, with rights and stakeholders, in order to produce work that informs conservation. For my PhD, I'm working with [Marty Krkosek](https://krkosek.eeb.utoronto.ca/) at the University of Toronto's  Department of Ecology and Evolutionary Biology.
 - I combine data synthesis, quantitative, molecular, and field-based approaches to investigate drivers of population dynamics and ecological stability. My ongoing projects include:
     - quantifying drivers of nonlinear population dynamics
     - identifying mechanisms promoting stability in exploited species
