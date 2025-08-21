@@ -1,6 +1,6 @@
 ### Hi, I'm Rob, a PhD candidate at U Toronto :canada: and a National Geographic Explorer
 
-- I'm a computational ecologist interested in understanding the processes that shape biodiversity dynamics and resilience, in an era of global change. 
+- I'm a quantitative ecologist interested in the processes that shape biodiversity dynamics and resilience under global change. 
 - I combine data synthesis, quantitative, molecular, and field-based approaches to investigate drivers of population dynamics and ecological resilience. My ongoing projects include:
     - quantifying drivers of nonlinear population dynamics
     - identifying mechanisms promoting stability in exploited species
